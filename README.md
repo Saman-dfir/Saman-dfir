@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Saman-dfir
 - 👀 I’m interested in Security Defence..
-- I have implemented various projects in the field of cyber defense security and currently I am working in the field of identifying cyber attacks at the network and Windows level.
+- I have implemented various projects in the field of cyber defense security and currently I am active in the field of identifying and hunting cyber threats at the network and operating system level.
